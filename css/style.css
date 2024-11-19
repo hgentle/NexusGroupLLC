@@ -1267,6 +1267,14 @@ margin-top: 13vw;
   margin-top: 20vw;
 }}
 
+.marginleft-ourstory{
+margin-left: 3em;
+}
+@media screen and (max-width: 600px) {
+.marginleft-ourstory { 
+  margin-left: 20vw;
+}}
+
 .margintop-vendors{
 margin-top: 15vw;
 }

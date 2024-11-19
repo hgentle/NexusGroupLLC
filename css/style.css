@@ -1285,6 +1285,16 @@ margin-left: 3em;
   height: 10em;
 }}
 
+.privacypolicy {
+  width: 80%;
+  margin-left: 7em;
+}
+@media screen and (max-width: 600px) {
+.privacypolicy { 
+  width: 100%;
+  margin-left: 0em;
+}}
+
 .margintop-vendors{
 margin-top: 15vw;
 }

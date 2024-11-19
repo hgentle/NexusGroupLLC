@@ -1275,6 +1275,16 @@ margin-left: 3em;
   margin-left: 20vw;
 }}
 
+.ourstorystyle {
+  width: 25em;
+  height: 25em;
+}
+@media screen and (max-width: 600px) {
+.ourstorystyle { 
+  width: 10em;
+  height: 10em;
+}}
+
 .margintop-vendors{
 margin-top: 15vw;
 }

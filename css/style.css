@@ -1281,8 +1281,8 @@ margin-left: 3em;
 }
 @media screen and (max-width: 600px) {
 .ourstorystyle { 
-  width: 10em;
-  height: 10em;
+  width: 15em;
+  height: 15em;
 }}
 
 .privacypolicy {
@@ -1296,11 +1296,11 @@ margin-left: 3em;
 }}
 
 .margintop-vendors{
-margin-top: 15vw;
+margin-top: 17vw;
 }
 @media screen and (max-width: 600px) {
 .margintop-vendors { 
-  margin-top: 20vw;
+  margin-top: 22vw;
 }}
 
 .carouselcaptionmargintop{

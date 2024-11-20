@@ -1279,6 +1279,11 @@ margin-left: 3em;
   width: 25em;
   height: 25em;
 }
+@media screen and (max-width: 600px) {
+.ourstorystyle { 
+  width: 10em;
+  height: 10em;
+}}
 
 .privacypolicy {
   width: 80%;
